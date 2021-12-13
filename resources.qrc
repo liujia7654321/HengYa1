@@ -1,0 +1,84 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/01.png</file>
+    <file>icon/1Hz.ico</file>
+    <file>icon/2.ico</file>
+    <file>icon/20 October 2020.ico</file>
+    <file>icon/Additional option.ico</file>
+    <file>icon/allfile.ico</file>
+    <file>icon/AssignTo_16x16.png</file>
+    <file>icon/Backward_32x32.png</file>
+    <file>icon/btn_checked.png</file>
+    <file>icon/btn_unchecked.png</file>
+    <file>icon/Channels and functions.ico</file>
+    <file>icon/Channels.ico</file>
+    <file>icon/Chbtn_checked.png</file>
+    <file>icon/Chbtn_unchecked.png</file>
+    <file>icon/Configure Custom pages.ico</file>
+    <file>icon/Database.png</file>
+    <file>icon/database_48.png</file>
+    <file>icon/delect.ico</file>
+    <file>icon/Delete.ico</file>
+    <file>icon/document_edit.png</file>
+    <file>icon/Down_32x32.png</file>
+    <file>icon/Electronic.ico</file>
+    <file>icon/Enabled.ico</file>
+    <file>icon/ex.ico</file>
+    <file>icon/F.ico</file>
+    <file>icon/File Reco.ico</file>
+    <file>icon/file.ico</file>
+    <file>icon/Format.ico</file>
+    <file>icon/Freeze screen.ico</file>
+    <file>icon/Full-screen.ico</file>
+    <file>icon/Functions.ico</file>
+    <file>icon/Home.ico</file>
+    <file>icon/Keyboard.ico</file>
+    <file>icon/left.png</file>
+    <file>icon/load.png</file>
+    <file>icon/Locking.ico</file>
+    <file>icon/Logic.ico</file>
+    <file>icon/logo.ico</file>
+    <file>icon/net.ico</file>
+    <file>icon/Numeric.ico</file>
+    <file>icon/Numeric1.ico</file>
+    <file>icon/PEOPLE.jpg</file>
+    <file>icon/Plot.ico</file>
+    <file>icon/Record.ico</file>
+    <file>icon/Recover.ico</file>
+    <file>icon/Refresh.png</file>
+    <file>icon/report.png</file>
+    <file>icon/right.png</file>
+    <file>icon/Right_32x32.png</file>
+    <file>icon/Screen brigh.ico</file>
+    <file>icon/Screen-setup.ico</file>
+    <file>icon/Setup.ico</file>
+    <file>icon/shot.ico</file>
+    <file>icon/Shunt value.ico</file>
+    <file>icon/Soltware update.ico</file>
+    <file>icon/start.ico</file>
+    <file>icon/stop.ico</file>
+    <file>icon/TB0287.ico</file>
+    <file>icon/TB0388.ico</file>
+    <file>icon/TB0500.ico</file>
+    <file>icon/TB1040.ico</file>
+    <file>icon/Timebase.ico</file>
+    <file>icon/Trlgger.ico</file>
+    <file>icon/Up2_32x32.png</file>
+    <file>icon/upan.ico</file>
+    <file>icon/View.ico</file>
+    <file>icon/VNC.ico</file>
+    <file>icon/windows.ico</file>
+    <file>icon/X-channel-A1(1).ico</file>
+    <file>icon/XY.ico</file>
+    <file>icon/播放.ICO</file>
+    <file>icon/电池.ico</file>
+    <file>icon/电阻.ico</file>
+    <file>icon/键盘.ico</file>
+    <file>icon/开始.ico</file>
+    <file>icon/取消.ico</file>
+    <file>icon/上.ico</file>
+    <file>icon/停止.ICO</file>
+    <file>icon/下.ico</file>
+    <file>icon/优盘.ico</file>
+  </qresource>
+</RCC>
